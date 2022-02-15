@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding homework assignment 4.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-07-statistics-for-brain-and-cognitive-science-fall-2016/6a3f0c929281688b40d2cbf199cbb184_MIT9_07F16_HomworkAsign_4.pdf
+file: /media/courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/6a3f0c929281688b40d2cbf199cbb184_MIT9_07F16_HomworkAsign_4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: '9.07 Statistics for Brain and Cognitive Science: Homework Assignment 4'
 uid: 6a3f0c92-9281-688b-40d2-cbf199cbb184

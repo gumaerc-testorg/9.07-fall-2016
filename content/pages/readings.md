@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: aeeb48e2-0b5a-3159-0071-3c5e056ee4b1
 ---
@@ -19,7 +22,7 @@ Rosner, Bernard. _Fundamentals of Biostatistics_. 6th ed. Duxbury Press, 2005. I
 
 Pawitan, Yudi. _In All Likelihood: Statistical Modeling and Inference Using Likelihood_. Oxford University Press, 2013. ISBN: 9780199671229. \[Preview with [Google Books](http://books.google.com/books?id=8T8fAQAAQBAJ&pg=PAfrontcover)\]
 
-Wallisch, Pascal, Michael E. Lusignan, et al. _MATLAB® for Neuroscientists: An Introduction to Scientific Computing in MATLAB_. Academic Press, 2008. ISBN: 9780123745514. (eBook ISBN: 9780080923284)
+Wallisch, Pascal, Michael E. Lusignan, et al. _MATLAB{{< sup "®" >}} for Neuroscientists: An Introduction to Scientific Computing in MATLAB_. Academic Press, 2008. ISBN: 9780123745514. (eBook ISBN: 9780080923284)
 
 Supplemental Materials
 ----------------------

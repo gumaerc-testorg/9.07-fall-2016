@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ee180b14-ce67-c0a4-9f20-449e838f08ba
 ---
@@ -17,7 +19,7 @@ This course is an introduction to statistics for brain and cognitive sciences. T
 Prerequisites
 -------------
 
-_9.40 Introduction to Neural Computation_ and the ability to program in MATLAB®.
+_9.40 Introduction to Neural Computation_ and the ability to program in MATLAB{{< sup "®" >}}.
 
 Calendar
 --------
