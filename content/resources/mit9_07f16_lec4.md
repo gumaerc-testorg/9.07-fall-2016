@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 39499fd5-0d44-603b-9e08-427e10a178e6
 resourcetype: Document
 title: Transformations of Random Variables
 uid: ce07ae2e-debe-9d94-a1ab-e3ad54d591f9

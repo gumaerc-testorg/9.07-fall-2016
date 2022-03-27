@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 39499fd5-0d44-603b-9e08-427e10a178e6
 resourcetype: Document
 title: Expectations, Variances, Covariances and Correlation
 uid: f86b869a-2414-2183-dd21-ea4419e9588a

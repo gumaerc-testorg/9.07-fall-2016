@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 39499fd5-0d44-603b-9e08-427e10a178e6
 resourcetype: Document
 title: Lecture 7 Addendum
 uid: 7289220f-ec62-add0-583f-92981cd43048

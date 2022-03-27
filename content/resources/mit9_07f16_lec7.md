@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 39499fd5-0d44-603b-9e08-427e10a178e6
 resourcetype: Document
 title: The Law of Large Numbers and the Central Limit Theorem
 uid: 42505b2c-837e-6182-a408-650e242d9830

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: aeeb48e2-0b5a-3159-0071-3c5e056ee4b1
 resourcetype: Document
 title: '9.07 Statistics for Brain and Cognitive Science: Hypothesis Testing Summary'
 uid: 4ef29205-519b-f50f-603f-0e92ccc1b408

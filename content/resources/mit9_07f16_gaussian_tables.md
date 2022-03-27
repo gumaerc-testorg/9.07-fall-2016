@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: aeeb48e2-0b5a-3159-0071-3c5e056ee4b1
 resourcetype: Document
 title: '9.07 Statistics for Brain and Cognitive Science: Gaussian Tables'
 uid: 71699757-2843-d319-9790-739819935290

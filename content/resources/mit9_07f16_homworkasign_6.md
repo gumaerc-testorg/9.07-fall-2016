@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bbe4182a-8124-756d-c8b8-749d72fcfead
 resourcetype: Document
 title: '9.07 Statistics for Brain and Cognitive Science: Homework Assignment 6'
 uid: df8ed75a-34d4-781d-2f5c-acdc13befe9c

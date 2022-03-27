@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: aeeb48e2-0b5a-3159-0071-3c5e056ee4b1
 resourcetype: Document
 title: '9.07 Statistics for Brain and Cognitive Science: Recap on Counting Methods'
 uid: 492f8f44-b312-1bb0-b717-8ee03c1bc98c
