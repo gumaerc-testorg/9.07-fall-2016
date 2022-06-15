@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes all basic information about the course description,
+  topics to be covered, prerequisites, and the grading rubric.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

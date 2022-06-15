@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains textbook citations and supplemental reading material
+  for this course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Readings
 uid: aeeb48e2-0b5a-3159-0071-3c5e056ee4b1
 ---
 
-The primary course material will be the [lecture notes]({{< baseurl >}}/pages/lecture-notes) for each lecture.
+The primary course material will be the {{% resource_link 39499fd5-0d44-603b-9e08-427e10a178e6 "lecture notes" %}} for each lecture.
 
 Other Text References
 ---------------------
@@ -27,8 +29,8 @@ Wallisch, Pascal, Michael E. Lusignan, et al. _MATLAB{{< sup "®" >}} for Neuros
 Supplemental Materials
 ----------------------
 
-[Hypothesis Testing Summary (PDF)]({{< baseurl >}}/resources/mit9_07f16_hypothesistest)
+{{% resource_link 4ef29205-519b-f50f-603f-0e92ccc1b408 "Hypothesis Testing Summary (PDF)" %}}
 
-[MATLAB tutorial by Camilo Lamus, 2010 (PDF)]({{< baseurl >}}/resources/mit9_07f16_matlab_tutorial)
+{{% resource_link 096f9956-d1eb-dbc0-a486-b8c57dcf9a8c "MATLAB tutorial by Camilo Lamus, 2010 (PDF)" %}}
 
-[Standard Normal Cumulative Probability Table (PDF)]({{< baseurl >}}/resources/mit9_07f16_stdnormcumdist)
+{{% resource_link 4e0ea258-ebab-6dd8-4cc4-ea3a6b7775f8 "Standard Normal Cumulative Probability Table (PDF)" %}}
