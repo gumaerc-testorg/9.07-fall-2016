@@ -5,6 +5,7 @@ file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/3f0f3b7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Figures Part 1
 uid: 3f0f3b76-66f9-5459-40ee-a5c36901d961
 ---
 This file contains information regarding figures Part 1.
-

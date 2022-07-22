@@ -5,6 +5,7 @@ file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/4ef2920
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '9.07 Statistics for Brain and Cognitive Science: Hypothesis Testing Summ
 uid: 4ef29205-519b-f50f-603f-0e92ccc1b408
 ---
 This file contains information regarding hypothesis testing summary.
-

@@ -5,6 +5,7 @@ file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/492f8f4
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '9.07 Statistics for Brain and Cognitive Science: Recap on Counting Metho
 uid: 492f8f44-b312-1bb0-b717-8ee03c1bc98c
 ---
 This resource contains information regarding recap on counting methods.
-

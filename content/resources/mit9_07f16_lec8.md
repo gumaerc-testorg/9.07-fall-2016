@@ -5,6 +5,7 @@ file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/3157558
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Method-of-Moments Estimation
 uid: 3157558f-e05c-4490-7edc-54dac8331788
 ---
 This file contains information regarding method-of-moments estimation.
-

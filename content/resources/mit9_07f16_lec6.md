@@ -6,6 +6,7 @@ file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/f86b869
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Expectations, Variances, Covariances and Correlation
 uid: f86b869a-2414-2183-dd21-ea4419e9588a
 ---
 This file contains information regarding expectations, Variances, Covariances and Correlation.
-

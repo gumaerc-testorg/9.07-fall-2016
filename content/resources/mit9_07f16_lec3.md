@@ -7,6 +7,7 @@ file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/6dcc172
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Continuous Probability Models I & II
 uid: 6dcc172f-428f-bfbd-ed91-2ca8862ea340
 ---
 This file contains information regarding continuous probability models I & IIThis file contains information regarding statistics for brain and cognitive science.
-

@@ -5,6 +5,7 @@ file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/beb2665
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Likelihood Theory I & II
 uid: beb2665d-692b-4c4d-a1a4-156cc8e6a393
 ---
 This file contains information regarding likelihood Theory I & II.
-

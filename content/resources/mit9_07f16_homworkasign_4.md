@@ -5,6 +5,7 @@ file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/6a3f0c9
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '9.07 Statistics for Brain and Cognitive Science: Homework Assignment 4'
 uid: 6a3f0c92-9281-688b-40d2-cbf199cbb184
 ---
 This file contains information regarding homework assignment 4.
-

@@ -6,6 +6,7 @@ file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/4e0ea25
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '9.07 Statistics for Brain and Cognitive Science: Standard Normal Cumulat
 uid: 4e0ea258-ebab-6dd8-4cc4-ea3a6b7775f8
 ---
 This file contains information regarding standard normal cumulative probability table.
-
