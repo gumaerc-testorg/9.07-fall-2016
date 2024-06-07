@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding expectations, Variances, Covariances
   and Correlation.
 file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/f86b869a24142183dd21ea4419e9588a_MIT9_07F16_lec6.pdf
+file_size: 2159221
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

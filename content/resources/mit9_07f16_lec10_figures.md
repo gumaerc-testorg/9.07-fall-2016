@@ -2,6 +2,7 @@
 content_type: resource
 description: Additional figures for lecture 10, 9.07 2016
 file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/ca48d4de86e0019d1879dc66ae54b345_MIT9_07F16_lec10_Figures.pdf
+file_size: 397969
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
