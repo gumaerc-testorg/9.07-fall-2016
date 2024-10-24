@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding recap on counting methods.
-file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/492f8f44b3121bb0b7178ee03c1bc98c_MIT9_07F16_RecapCounting.pdf
+file: /ol-ocw-studio-app/courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/492f8f44b3121bb0b7178ee03c1bc98c_MIT9_07F16_RecapCounting.pdf
 file_size: 2222784
 file_type: application/pdf
 learning_resource_types:
