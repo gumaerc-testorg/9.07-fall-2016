@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding discrete probability models.
-file: /ol-ocw-studio-app/courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/57c82d725da0a2ec1852ec44eff156aa_MIT9_07F16_lec2.pdf
+file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/57c82d725da0a2ec1852ec44eff156aa_MIT9_07F16_lec2.pdf
 file_size: 407250
 file_type: application/pdf
 learning_resource_types:

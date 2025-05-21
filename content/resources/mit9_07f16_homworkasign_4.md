@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding homework assignment 4.
-file: /ol-ocw-studio-app/courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/6a3f0c929281688b40d2cbf199cbb184_MIT9_07F16_HomworkAsign_4.pdf
+file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/6a3f0c929281688b40d2cbf199cbb184_MIT9_07F16_HomworkAsign_4.pdf
 file_size: 751172
 file_type: application/pdf
 learning_resource_types:

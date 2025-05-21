@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding the law of large numbers and
   the central limit theorem.
-file: /ol-ocw-studio-app/courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/42505b2c837e6182a408650e242d9830_MIT9_07F16_lec7.pdf
+file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/42505b2c837e6182a408650e242d9830_MIT9_07F16_lec7.pdf
 file_size: 518046
 file_type: application/pdf
 learning_resource_types:
