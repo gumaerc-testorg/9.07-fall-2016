@@ -3,7 +3,7 @@ content_type: resource
 description: This file contains information regarding statistics for brain and cognitive
   science conditional distributions and functions of jointly distributed random variables
   I & II.
-file: /ol-ocw-studio-app/courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/465d9b59c4a6e31593abac4c5dcd63ca_MIT9_07F16_lec5.pdf
+file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/465d9b59c4a6e31593abac4c5dcd63ca_MIT9_07F16_lec5.pdf
 file_size: 1771340
 file_type: application/pdf
 learning_resource_types:
