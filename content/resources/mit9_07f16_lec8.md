@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding method-of-moments estimation.
-file: /courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/3157558fe05c44907edc54dac8331788_MIT9_07F16_lec8.pdf
+file: /ol-ocw-studio-app/courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/3157558fe05c44907edc54dac8331788_MIT9_07F16_lec8.pdf
 file_size: 1813195
 file_type: application/pdf
 learning_resource_types:
